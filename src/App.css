@@ -1,5 +1,11 @@
+body{
+  margin: 0;
+ 
+}
+
 .App {
   text-align: center;
+ 
 }
 
 .App-logo {
@@ -35,4 +41,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.jumbo{
+  /* background-image: url('https://t4.ftcdn.net/jpg/02/62/27/45/360_F_262274583_fbVsQxJVRYLgkaQHrRoxNKpMdDYmhLJD.jpg'); */
+  background-image: url('https://img-cdn.inc.com/image/upload/w_1920,h_1080,c_fill/images/panoramic/GettyImages-577674005_492115_zfpgiw.jpg');
 }
